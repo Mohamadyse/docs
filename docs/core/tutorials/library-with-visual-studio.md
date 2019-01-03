@@ -13,7 +13,7 @@ A *class library* defines types and methods that are called by an application. A
 > [!NOTE]
 > For a list of the .NET Standard versions and the platforms they support, see [.NET Standard](../../standard/net-standard.md).
 
-In this topic, you'll create a simple utility library that contains a single string-handling method. You'll implement it as an [extension method](../../csharp/programming-guide/classes-and-structs/extension-methods.md) so that you can call it as if it were a member of the <xref:System.String> class.
+In this topic, you'll create a simple utility library that contains a single string-handling method. You'll implement it as an [extension method](../../csharp/programming-guide/classes-and-structs/extension-methods.md) so that you can call it as if it was a member of the <xref:System.String> class.
 
 ## Creating a class library solution
 
